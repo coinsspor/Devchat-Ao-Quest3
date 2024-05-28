@@ -30,12 +30,14 @@ Key Points:
 Discord Bot Token and Channel ID: Replace YOUR_DISCORD_BOT_TOKEN and YOUR_DISCORD_CHANNEL_ID with your actual Discord bot token and channel ID.
 Wallet Path: Ensure the wallet path points to your .aos.json file.
 Relay Message to DevChat: The function relayMessageToDevChat is used to relay messages from Discord to DevChat using the @permaweb/aoconnect library.
+
 **Step 4: Setting Up capture.js**
 The capture.js script captures messages from DevChat and sends them via WebSocket to index.js.
 
 Key Points:
 WebSocket Setup: Establishes a WebSocket connection to index.js.
 DevChat Message Checking: Polls for new messages from DevChat and sends them via WebSocket.
+
 **Step 5: Lua Files**
 5.1 client.lua
 Handles basic client operations such as joining rooms, sending messages, and listing available rooms.
