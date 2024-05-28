@@ -53,7 +53,7 @@ Routes messages between different components of the system.
 
 
 
-Step 6: Running the Project
+**Step 6: Running the Project**
 **Start the Lua Scripts:**
 
 Load the required Lua scripts in the aos terminal:
