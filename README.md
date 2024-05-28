@@ -106,5 +106,9 @@ Check the specified Discord channel to see if the message appears.
 
 **Sending a Message from Discord:**
 
+You can watch on youtube How to works 
+
+[https://www.youtube.com/watch?v=8JKk-VOKqgg&t=3s](url)
+
 Send a message in the specified Discord channel and check if it gets relayed to DevChat.
 ConclusionBy following this guide, you will set up a fully functional message relay system between DevChat and Discord. This allows seamless communication between the two platforms, enhancing the overall chat experience.
