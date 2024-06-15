@@ -67,20 +67,24 @@ Load the required Lua scripts in the aos terminal:
 
 Register the channel by sending a message to the router:
 
+
 `ao.send({ Target = "xnkv_QpWqICyt8NpVMbfsUQciZ4wlm5DigLrfXRm8fY", Action = "Register", Name = "CoinssporRoom" })
 Join the Channel:`
 
 **Join the registered channel in the aos terminal:**
 
+
 `Join("CoinssporRoom")`
 
 **Send a Test Message:**
+
 
 Send a test message to the joined channel:
 
 `Say("Hello, this is a first test message.", "CoinssporRoom")`
 
 **Start the WebSocket Server:**
+
 
 Run the index.js script to start the WebSocket server and log in the Discord bot:
 
@@ -112,3 +116,6 @@ https://www.youtube.com/watch?v=8JKk-VOKqgg&t=3s
 
 Send a message in the specified Discord channel and check if it gets relayed to DevChat.
 ConclusionBy following this guide, you will set up a fully functional message relay system between DevChat and Discord. This allows seamless communication between the two platforms, enhancing the overall chat experience.
+
+## https://discord.gg/kssHXDqx 
+
