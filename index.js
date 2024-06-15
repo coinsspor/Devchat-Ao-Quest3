@@ -3,7 +3,7 @@ const WebSocket = require('ws');
 const { message, createDataItemSigner } = require('@permaweb/aoconnect');
 const { readFileSync } = require('fs');
 
-const token = 'MTI0Mjg4MTI1NTcyNTU5NjgwMw.GDRD88.vo4D94sq2s0j9xAtrSuRY5A5SKaAtb6swZI6XU';
+const token = 'MTI0Mjg4MTI1NTcyNTU5NjgwMw.GclqRe.tlwuA0NHleUsU-qwKKNg_gAznHKbl57YH3PIXI';
 const channelId = '1242930750379266138'; // Discord kanal ID'si
 
 const walletPath = '/root/.aos.json'; // Doğru dosya yolu
